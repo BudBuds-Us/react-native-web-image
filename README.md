@@ -1,5 +1,13 @@
 # React Native WebImage
 
+### Disclaimer
+This is a fork from `react-native-web-image` with a fix for old react-native-version.
+Tested with versions:
+```bash
+react-native-cli: 2.0.1
+react-native: 0.44.3
+```
+
 An image component for react-native with persistent disk and memory caching.
 
 It is mostly a wrapper around native libraries which actually do the hard work.
@@ -17,9 +25,7 @@ react-native link
 
 | version       | react-native |
 | ------------- | ------------ |
-| 0.0.5 - 0.0.6 | &gt;=0.47.0  |
-| 0.0.3 - 0.0.4 | &gt;=0.40.0  |
-| &lt;=0.0.2    | &lt;0.40.0 (tested with 0.37.0) |
+| 0.0.1         | &lt;=0.44.3  |
 
 ## Usage
 

@@ -1,6 +1,6 @@
 {
-  "name": "react-native-web-image",
-  "version": "0.0.6",
+  "name": "react-native-web-image-old",
+  "version": "0.0.1",
   "description": "An image component for react-native with persistent disk and memory caching",
   "main": "lib/index.js",
   "scripts": {
@@ -19,13 +19,13 @@
     "mobile"
   ],
   "author": "Vladimir Timofeev <vovkasm@gmail.com>",
-  "homepage": "https://github.com/vovkasm/react-native-web-image",
+  "homepage": "https://github.com/BudBuds-Us/react-native-web-image",
   "bugs": {
-    "url": "https://github.com/vovkasm/react-native-web-image/issues"
+    "url": "https://github.com/BudBuds-Us/react-native-web-image/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/vovkasm/react-native-web-image.git"
+    "url": "git://github.com/BudBuds-Us/react-native-web-image.git"
   },
   "license": "MIT",
   "devDependencies": {
